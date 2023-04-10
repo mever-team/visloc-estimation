@@ -7,7 +7,7 @@ datasets presented in the paper to facilitate the reproducibility of the results
 Search within Cell (SwC) scheme for the accurate location prediction, and the calculation of the Prediction Density (PD) 
 that indicates image localizability.
 
-<img src="data/method_overview.png" width="100%">
+<img src="banner.png" width="100%">
 
 
 ## Prerequisites
