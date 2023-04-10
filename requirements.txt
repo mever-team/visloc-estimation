@@ -1,0 +1,10 @@
+# torch
+# torchvision
+h5py
+numpy
+tqdm
+scikit-learn
+efficientnet_pytorch==0.7.0
+einops
+s2sphere
+matplotlib
