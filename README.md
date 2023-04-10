@@ -63,7 +63,7 @@ localizable and non-localizable.
 * Run the `inference.py` script given the `image_path` of an image stored locally or the `image_url` of an image from 
 the web
 ```bash
-python inference.py --image_url 'https://www.toureiffel.paris/sites/default/files/styles/wide_x1_1024/public/home-bg-1.jpg?itok=0ZQ9FEeP'
+python inference.py --image_url 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg/200px-Tour_Eiffel_Wikimedia_Commons.jpg'
 ```
 
 ## Citation
