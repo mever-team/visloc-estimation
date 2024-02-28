@@ -21,8 +21,8 @@ that indicates image localizability.
 
 * Clone this repo:
 ```bash
-git clone https://github.com/mever-team/distill-and-select
-cd distill-and-select
+git clone https://github.com/mever-team/visloc-estimation
+cd visloc-estimation
 ```
 * Install all the dependencies by
 ```bash
